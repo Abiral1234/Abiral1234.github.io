@@ -58054,7 +58054,10 @@ A.Pz.prototype={
 $0(){A.kN("mailto:abiral.pokhrel99@gmail.com")},
 $S:0}
 A.PA.prototype={
-$0(){},
+$0(){var s=document.createElement("a")
+s.href="/lib/Abiral Pokhrel CV.pdf"
+s.download="Abiral Pokhrel CV"
+s.click()},
 $S:0}
 A.nG.prototype={
 I(a){var s,r,q=null
