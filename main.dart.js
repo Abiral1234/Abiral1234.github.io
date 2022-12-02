@@ -58135,7 +58135,7 @@ return A.im(A.a([new A.c0(B.zd,new A.fj(B.ef,s,s,A.fZ("Projects:",A.ix(s,30),s,s
 A.mp.prototype={
 ae(){return new A.LC(B.j)}}
 A.LC.prototype={
-I(a){var s=null,r=A.ac7(B.kh,new A.kY("images/BlueDots.gif",s,s),s),q=t.E
+I(a){var s=null,r=A.ac7(B.kh,new A.kY("assets/images/BlueDots.gif",s,s),s),q=t.E
 return A.cJ(s,new A.c0(B.zc,A.cJ(s,A.zx(A.oz(A.a([A.im(A.a([new A.qw(A.a([A.acp("Hi \nThere!",B.d_,0.5,0.8,B.un),A.acp("I am \nAbiral,",A.bN(0,5000),0.03,0.9,B.un)],t.rr),B.eK,!0,!0,1,s)],q),B.b7,B.U),new A.c0(B.zf,new A.zB(new A.kY("assets/images/capture.PNG",s,s),80,s),s)],q),B.Dx,B.aZ),s,s),B.n,s,s,s,s,s,s,s,s,s,s),s),B.n,s,new A.aA(0,1/0,200,1/0),new A.dn(B.l,r,s,s,s,s,B.a9),s,s,s,s,s,s,1/0)}}
 A.U5.prototype={}
 A.Of.prototype={}
